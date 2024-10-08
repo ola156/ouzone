@@ -1182,7 +1182,7 @@ roduct big*/
   flex-direction: column;
 }
 .products.one .item-1 {
-  padding-left: 2.5em;
+  padding-left: 1em;
 }
 
 .products.one .item-1 h1 {
@@ -2310,7 +2310,7 @@ e */
 
   .products.one .row {
     flex: 0 0 45%;
-    width: 50%;
+    width: 45%;
   }
   .products.one .is_sticky,
   .is_sticky {
@@ -2319,7 +2319,7 @@ e */
   }
 
   .checkout .item.right {
-    padding: 2em 0 0 2em;
+    padding: 2em 0 0 0;
   }
 }
 
@@ -2437,7 +2437,7 @@ e */
     position: absolute;
     top: var(--percent100);
     width: 300px;
-    height: 510px;
+    height: 331px;
     background-color: var(--white-color);
     border: 1px solid var(--border-color);
     border-top: 0;
