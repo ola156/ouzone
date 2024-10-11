@@ -1,6 +1,6 @@
 :root {
-  --primary-color: #f85550;
-  --secondry-color: #fa4a53;
+  --primary-color: #f81307;
+  --secondry-color: #f60d19;
   --secondary-dark-color: #453c5c;
 
   --white-color: #ffffff;
@@ -434,7 +434,7 @@ form.search input {
   padding: 0 0em 0 3em;
   border: 0;
   outline: 0;
-  width: 90%;
+  width: 88%;
   border-radius: 8px;
   font-size: 0.9em;
   font-weight: var(--fw3);
@@ -967,10 +967,11 @@ roduct big*/
 
 .banner h3 {
   font-size: calc(1em + 0.5vw);
-  font-weight: var(--fw3);
+  font-weight: var(--fw8);
 }
 .banner h3 span {
   font-size: 80%;
+  font-weight: bold;
 }
 
 .banners .product-categories .item {
@@ -2310,7 +2311,7 @@ e */
 
   .products.one .row {
     flex: 0 0 45%;
-    width: 45%;
+    width: 49%;
   }
   .products.one .is_sticky,
   .is_sticky {
@@ -2564,7 +2565,7 @@ e */
 
   /*cartpage----*/
   .products.cart .form-cart {
-    width: 66%;
+    width: 64%;
   }
   .products.cart .cart-summary {
     width: 33%;
